@@ -22,34 +22,34 @@ const songLibrary = [
     {
         Title: 'Faded',
         Artist: 'Alan Walker',
-        musicLocation: '/Music/Faded.mp3',
-        albumArtLocation: '/Images/Faded.jpeg'
+        musicLocation: './Music/Faded.mp3',
+        albumArtLocation: './Images/Faded.jpeg'
     },
     {
         Title: 'A Thousand Years',
         Artist: 'Christina Perri',
-        musicLocation: '/Music/A Thousand Years.mp3',
-        albumArtLocation: 'Images/Christina Perri.jpeg'
+        musicLocation: './Music/A Thousand Years.mp3',
+        albumArtLocation: './Images/Christina Perri.jpeg'
     },
     {
         Title: 'All Of Me',
         Artist: 'John Legend',
-        musicLocation: '/Music/All Of Me.mp3',
-        albumArtLocation: '/Images/All Of Me.jpg'
+        musicLocation: './Music/All Of Me.mp3',
+        albumArtLocation: './Images/All Of Me.jpg'
 
     },
     {
         Title: 'Let Her Go',
         Artist: 'Passenger',
-        musicLocation: '/Music/Let Her Go.mp3',
-        albumArtLocation: '/Images/Let Her Go.jpg'
+        musicLocation: './Music/Let Her Go.mp3',
+        albumArtLocation: './Images/Let Her Go.jpg'
     },
     {
 
         Title: 'Perfect',
         Artist: 'Ed Sheeran',
-        musicLocation: '/Music/Perfect.mp3',
-        albumArtLocation: '/Images/Perfect.jpg'
+        musicLocation: './Music/Perfect.mp3',
+        albumArtLocation: './Images/Perfect.jpg'
     }
 ];
 
